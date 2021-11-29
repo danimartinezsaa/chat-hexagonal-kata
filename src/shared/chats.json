@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "user": "Alice",
+            "messages": [
+                {
+                    "author": "Alice",
+                    "body": "Hi"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "user": "Bob",
+            "messages": [
+                {
+                    "author": "Me",
+                    "body": "How are you?"
+                }
+            ]
+        }
+    ]
+}
